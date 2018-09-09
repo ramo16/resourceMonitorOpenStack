@@ -1,0 +1,6 @@
+auth_url1="http://172.16.0.3:5000/v3" 
+username1="admin"
+password1="admin"
+project_name1="admin"
+user_domain_id1="default"
+project_domain_id1="default"
