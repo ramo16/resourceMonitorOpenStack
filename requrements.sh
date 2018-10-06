@@ -1,4 +1,3 @@
-
 echo "Install Grafana Server"
 sudo apt-get -y install curl
 sudo apt-get install -y apt-transport-https
